@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
     <div className="hero classcontainer">
-      <div className="hero-contant">
+      <div className="contant">
         <h1>YOUR FEET DESERVE THE BEST</h1>
         <p>
           YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR
