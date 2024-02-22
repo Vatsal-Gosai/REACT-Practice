@@ -1,5 +1,7 @@
+import styles from "./Button.module.css";
+
 const Button = () => {
-  return <div></div>;
+  return <div className={`${styles.container}`}></div>;
 };
 
 export default Button;
