@@ -1,5 +1,5 @@
 .primary_btn {
-  padding: 18px 10px;
+  padding: 10px 8px;
   background-color: black;
   color: white;
   border-radius: 5px;
@@ -12,7 +12,7 @@
   cursor: pointer;
 }
 .outline_btn {
-  padding: 18px 10px;
+  padding: 10px 8px;
   border: 1px solid black;
   color: black;
   border-radius: 5px;
